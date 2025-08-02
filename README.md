@@ -21,7 +21,7 @@ Estou sempre em busca de aprender mais e compartilhar conhecimento por meio de p
 ### 📌 Projetos em Destaque
 
 - 🎯 [DiseaseModel-LogReg](https://github.com/anapaulads/DiseaseModel-LogReg): Regressão logística para prever doenças cardiovasculares, com foco em métricas de performance.
-- 
+- 🔐 [Predição de Fraudes Financeiras](https://github.com/anapaulads/predicao-fraude-financeira): XGBoost para detecção de fraudes em transações financeiras.
 
 ---
 
@@ -36,7 +36,7 @@ Estou sempre em busca de aprender mais e compartilhar conhecimento por meio de p
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anapaulads/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.paulla@outlook.com)
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/731913709080936479)
 ---
 
 ✨ *“Ciência de dados é mais que números. É empatia, impacto e transformação.”*  
