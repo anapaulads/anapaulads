@@ -1,4 +1,4 @@
-## 👩‍💻 Ana Paula Dias
+## 👩🏾‍💻 Ana Paula Dias
 
 **Cientista de Dados | Python Enthusiast | Exploradora de Conhecimento**
 
