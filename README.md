@@ -20,7 +20,7 @@ Estou sempre em busca de aprender mais e compartilhar conhecimento por meio de p
 
 ### 📌 Projetos em Destaque
 
-- 🎯 [DiseaseModel-LogReg](https://github.com/anapaulads/DiseaseModel-LogReg): Regressão logística para prever doenças cardiovasculares, com foco em métricas de performance.
+- 🎯 [Previsão do Percentual de Inadimplência no Brasil](https://github.com/anapaulads/Previsao_Inadiplencia_Br): Previsão da taxa de inadimplência no Brasil a partir de dados macroeconômicos e socioeconômicos, usando LightGBM.
 - 🔐 [Predição de Fraudes Financeiras](https://github.com/anapaulads/predicao-fraude-financeira): XGBoost para detecção de fraudes em transações financeiras.
 
 ---
