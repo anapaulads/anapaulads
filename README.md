@@ -20,6 +20,7 @@ Estou sempre em busca de aprender mais e compartilhar conhecimento por meio de p
 
 ### 📌 Projetos em Destaque
 
+- 🎬 [Dataflix - Insights de Hollywood: Prevendo notas IMDb com Machine Learning](https://github.com/anapaulads/Dataflix-Insights-de-Hollywood): Previsão de notas do IMDb e recomendações estratégicas para identificar gêneros com maior potencial de sucesso.
 - 🎯 [Previsão do Percentual de Inadimplência no Brasil](https://github.com/anapaulads/Previsao_Inadiplencia_Br): Previsão da taxa de inadimplência no Brasil a partir de dados macroeconômicos e socioeconômicos, usando LightGBM.
 - 🔐 [Predição de Fraudes Financeiras](https://github.com/anapaulads/predicao-fraude-financeira): XGBoost para detecção de fraudes em transações financeiras.
 
