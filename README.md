@@ -29,8 +29,8 @@ Estou sempre em busca de aprender mais e compartilhar conhecimento por meio de p
 
 ### 📈 Estatísticas GitHub
 
-![Ana GitHub Stats](https://github-readme-stats.vercel.app/api?username=anapaulads&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulads&layout=compact&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=anapaulads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)                    
+![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anapaulads&layout=compact&theme=dracula)
 
 ---
 
